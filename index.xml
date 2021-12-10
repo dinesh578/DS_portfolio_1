@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on HOME</title>
+    <link>https://dinesh578.github.io/DS_portfolio_1/</link>
+    <description>Recent content in Data Science Portfolio on HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dinesh578.github.io/DS_portfolio_1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://dinesh578.github.io/DS_portfolio_1/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dinesh578.github.io/DS_portfolio_1/contact/</guid>
+      <description>Contact me :
+Email : Dineshhreddee@gmail.com
+Follow me :
+Github : https://github.com/dinesh578</description>
+    </item>
+    
+    <item>
+      <title>Project 1 : Gemstone Price Estimator</title>
+      <link>https://dinesh578.github.io/DS_portfolio_1/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dinesh578.github.io/DS_portfolio_1/post/project-1/</guid>
+      <description>Created a tool that estimates the gemstone prices to help the gemstone buyers when they want to buy. Imported the data to python environment and did EDA ,feature engineering ,feature selection, etc. Random Forest Regressor is used for the prediction. Built an API using flask.   Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Customer Segmentation </title>
+      <link>https://dinesh578.github.io/DS_portfolio_1/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dinesh578.github.io/DS_portfolio_1/post/project-2/</guid>
+      <description>Created a tool that divide the online retail customers in to different groups based on the segmentation the business people can understand which segment they should target. Imported the dataset to python environment, Dataset preparation from existing data, Data engineering, Feature Selection etc. Kmeans clustering is used for this customer segmentation. Elbow method is used to get optimal K value and silhouette score is used to evaluate the model. Built an API using Flask.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Image Classification On Balls Dataset </title>
+      <link>https://dinesh578.github.io/DS_portfolio_1/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dinesh578.github.io/DS_portfolio_1/post/project-3/</guid>
+      <description>I built a project called ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from certain country. They could take the picture of the ball and the app could which ball it is .I was able to get the model to predict more than 90% accuracy after minimal tunning .To get these results i used the CNN(convolutional neural network).
+Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Text Extraction From Form Images</title>
+      <link>https://dinesh578.github.io/DS_portfolio_1/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dinesh578.github.io/DS_portfolio_1/post/project-4/</guid>
+      <description>I built a project that can extract the text from the forms and store the details in the excel sheet. This could be useful for the companies which getting lot of applications or forms this application will help them to store the data into excel sheet automatically. I used OPENCV and Python-tesseract to achieve this.
+Link to GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>
